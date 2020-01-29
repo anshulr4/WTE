@@ -1,5 +1,5 @@
 # WTE
-## Wolverine Ticket Exchange
+# Wolverine Ticket Exchange
 =========================
 - CEO - Anshul Rana
 - CFO - Derek Sun
