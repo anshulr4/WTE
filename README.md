@@ -1,5 +1,5 @@
 # WTE
 Wolverine Ticket Exchange
 =========================
-CEO - Anshul Rana
-CTO - Viroshan Narayan and Abhik Mazumder and Rithvik Rao
+- CEO - Anshul Rana
+- CTO - Viroshan Narayan, Abhik Mazumder, Zach Gohl, and Rithvik Rao
