@@ -1,6 +1,6 @@
 # WTE
 # Wolverine Ticket Exchange
-=========================
+
 - CEO - Anshul Rana
 - CFO - Derek Sun
 - CIO - Grant Ho, Vaibhav Hande, and Viroshan Narayan
