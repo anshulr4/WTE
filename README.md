@@ -2,4 +2,8 @@
 Wolverine Ticket Exchange
 =========================
 - CEO - Anshul Rana
-- CTO - Viroshan Narayan, Abhik Mazumder, Zach Gohl, and Rithvik Rao
+- CDO - Abhik Mazumder, Zach Gohl, and Rithvik Rao
+- CTO - Viroshan Narayan, Grant Ho, and Vaibhav Hande
+- COO - Rohit Narayanan and Karan Nayak
+- CMO - Karan Parikh
+- CFO - Derek Sun
