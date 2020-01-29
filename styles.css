@@ -13,17 +13,40 @@ h1 {
 }
 
 
-}
 .bgdiv{
-    background-color: lightgray;
-    display: block;
-    width: 500px;
-    height: 200px;
-    opacity: .25;
-
-    
+    width:350px;
+    height:45px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    text-transform: none;
+    font-variant: small-caps;
+    color: white;
+    vertical-align: middle;
 
 }
+
+.bgdiv:hover{
+    border-color: yellow;
+    color: yellow;
+
+}
+
+.divlink:visited{
+    text-decoration: none;
+}
+.divlink:link{
+    text-decoration: none;
+}
+
 
 body{
     background-image: url("bighouse.jpeg");
