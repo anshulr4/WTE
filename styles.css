@@ -1,5 +1,5 @@
-h1 {
-    color:#FFFFFF;
+h1 {/*Properties of the heading - Wolverine Ticket Exchange*/
+    color: yellow;
     text-align: center;
     font-family: Impact, Charcoal, sans-serif;
     font-size: 60px;
@@ -13,9 +13,9 @@ h1 {
 }
 
 
-.bgdiv{
-    width:350px;
-    height:45px;
+.bgdiv{/*Properties of the button*/
+    width:150px;
+    height:40px;
     border-style: solid;
     border-color: white;
     border-width: 3px;
@@ -30,16 +30,42 @@ h1 {
     text-transform: none;
     font-variant: small-caps;
     color: white;
-    vertical-align: middle;
+    vertical-align: center;
 
 }
 
-.bgdiv:hover{
-    border-color: yellow;
-    color: yellow;
+.bgdiv:hover{ /*The color of the button when the cursor is over it*/
+    border-color: blue;
+    color: blue;
 
 }
 
+.myBox{/*Properties of the button*/
+    width:150px;
+    height:40px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    text-transform: none;
+    font-variant: small-caps;
+    color: white;
+    vertical-align: center;
+
+}
+
+.myBox:hover{ /*The color of the button when the cursor is over it*/
+    border-color: blue;
+    color: blue;
+
+}
 .divlink:visited{
     text-decoration: none;
 }
