@@ -36,11 +36,11 @@ h1 {/*Properties of the heading - Wolverine Ticket Exchange*/
 
 .bgdiv:hover{ /*The color of the button when the cursor is over it*/
     border-color: blue;
-    color: blue;
+    color: rgb(233, 39, 39);
 
 }
 
-.myBox{/*Properties of the button*/
+.myLogin{/*Properties of the button*/
     width:150px;
     height:40px;
     border-style: solid;
@@ -58,6 +58,39 @@ h1 {/*Properties of the heading - Wolverine Ticket Exchange*/
     font-variant: small-caps;
     color: white;
     vertical-align: center;
+
+}
+
+.myLogin:hover{ /*The color of the button when the cursor is over it*/
+    border-color: blue;
+    color: blue;
+
+}
+
+.myAbout{/*Properties of the button*/
+    width:150px;
+    height:40px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    text-transform: none;
+    font-variant: small-caps;
+    color: white;
+    vertical-align: center;
+
+}
+
+.myAbout:hover{ /*The color of the button when the cursor is over it*/
+    border-color: blue;
+    color: blue;
 
 }
 
