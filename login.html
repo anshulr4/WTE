@@ -3,7 +3,8 @@ WesTech
 
 <head>
   <link rel="stylesheet" href="css/style.css">
-  <link href="login_tab.css" rel="stylesheet">
+  <link href="login_page2.css" rel="stylesheet">
+  <script src="login_page2.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,17 +22,18 @@ WesTech
         <li class="active">Login</li>        
       </ul>
 
-  </div>
-  
-  <div class="main">
-    <p class="sign" align="center">Welcome!</p>
-    <form class="form1">
-      <input class="un " type="text" align="center" placeholder="Username">
-      <input class="pass" type="password" align="center" placeholder="Password">
-      <a class="submit" align="center">Login</a>
-      <p class="forgot" align="center"><a href="#">Forgot Password?</p>
+    <div class="main">
+    <h2>Login Form</h2>
+    <form id="form_id" method="post" name="myform">
+    <label>User Name :</label>
+    <input type="text" name="username" id="username"/>
+    <label>Password :</label>
+    <input type="password" name="password" id="password"/>
+    <input type="button" value="Login" id="submit" onclick="validate()"/>
+    </form>
             
                 
+    </div>
     </div>
 
      

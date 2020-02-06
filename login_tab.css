@@ -4,7 +4,7 @@ body {
     background-size: 100%;
     font-family: 'Ubuntu', sans-serif;
     background-repeat: no-repeat;
-    background-color: black;
+    background-color: rgb(247, 247, 247);
 }
 
 .main {
